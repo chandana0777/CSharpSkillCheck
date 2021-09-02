@@ -21,12 +21,15 @@ namespace ProblemTwo_CompilationError
         }
         public Employee(int eID,string eName,int eLevel, DateTime eDoJ)
         {
-
+            this.EmpID = eID;
+            this.EmpName = eName;
+            this.EmpLevel = eLevel;
+            this.DateOfJoining = eDoJ;
         }
 
         public static int GetMonthDifference(DateTime startDate, DateTime endDate)
         {
-            int monthsApart = 12 * (startDate.Year - endDate.Year) + startDate.Month - endDate.Month;
+            int monthsApart = (12 * (startDate.Year - endDate.Year) + (startDate.Month - endDate.Month));
             return Math.Abs(monthsApart);
         }
 
