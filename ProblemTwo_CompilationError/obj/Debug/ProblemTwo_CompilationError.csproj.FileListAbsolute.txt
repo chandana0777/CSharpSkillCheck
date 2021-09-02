@@ -8,3 +8,6 @@ D:\OneDrive - LTTS\ADASProgram\Interview\HandsOn\Assessment_HandsOn_ADAS\Problem
 C:\Users\admin\Source\Repos\chandana0777\CSharpSkillCheck\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.csproj.CoreCompileInputs.cache
 C:\Users\admin\Source\Repos\chandana0777\CSharpSkillCheck\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.exe
 C:\Users\admin\Source\Repos\chandana0777\CSharpSkillCheck\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.pdb
+C:\Users\admin\Source\Repos\chandana0777\CSharpSkillCheck\ProblemTwo_CompilationError\bin\Debug\ProblemTwo_CompilationError.exe.config
+C:\Users\admin\Source\Repos\chandana0777\CSharpSkillCheck\ProblemTwo_CompilationError\bin\Debug\ProblemTwo_CompilationError.exe
+C:\Users\admin\Source\Repos\chandana0777\CSharpSkillCheck\ProblemTwo_CompilationError\bin\Debug\ProblemTwo_CompilationError.pdb
