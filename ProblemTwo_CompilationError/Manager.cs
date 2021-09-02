@@ -21,6 +21,7 @@ namespace ProblemTwo_CompilationError
             CostCode = cCode;
 
         }
+
         public Manager() : base()
         {
 
